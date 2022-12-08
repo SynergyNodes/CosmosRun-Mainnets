@@ -2726,7 +2726,7 @@
   resolved "https://registry.npmjs.org/@vue/cli-shared-utils/-/cli-shared-utils-5.0.4.tgz"
   integrity sha512-nfAsj8Nopu5sVHMBIaut/YL7NaJFVmTBSTJD7LM17jc5uytrM9JwiRtzCiv3JWRBG78Xdb/s2Xb/1YR4fkdmkQ==
   dependencies:
-    "@achrinza/node-ipc" "9.2.2"
+    "@achrinza/node-ipc" "9.2.5"
     chalk "^4.1.2"
     execa "^1.0.0"
     joi "^17.4.0"
