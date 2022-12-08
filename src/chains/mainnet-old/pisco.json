@@ -1,0 +1,16 @@
+{
+    "chain_name": "pisco-1",
+    "api": "https://pisco-1.synergynodes.com",
+    "sdk_version": "0.44.3",
+    "addr_prefix": "terra",   
+    "coin_type": "505",
+    "min_tx_fee": "400000000",
+    "logo": "/logos/provenance.svg",
+    "assets": [{
+        "base": "uluna",
+        "symbol": "LUNA",
+        "exponent": "9",
+        "coingecko_id": "", 
+        "logo": "/logos/provenance.svg"
+    }]
+}

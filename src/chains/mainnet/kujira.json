@@ -1,0 +1,20 @@
+{
+    "chain_name": "kujira",
+    "api": ["https://lcd-kujira.synergynodes.com", "https://lcd-kujira.mintthemoon.xyz "],
+    "rpc": ["https://rpc-kujira.synergynodes.com", "https://rpc-kujira.mintthemoon.xyz "],
+    "sdk_version": "0.45.4",
+    "addr_prefix": "kujira",
+    "coin_type": "118",
+    "assets": [{
+        "base": "ukuji",
+        "symbol": "KUJI",
+        "exponent": "6",
+        "coingecko_id": "kujira", 
+        "logo": "/logos/kujira.png"
+    }, {
+        "base": "wavax-wei",
+        "symbol": "AVAX",
+        "exponent": "18"
+    }],
+    "logo": "/logos/kujira.png"
+}

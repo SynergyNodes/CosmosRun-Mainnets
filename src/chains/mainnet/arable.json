@@ -1,0 +1,20 @@
+{
+    "chain_name": "acre-mainnet",
+    "coingecko": "",
+    "api": "https://lcd-acre.synergynodes.com",
+    "rpc": "https://rpc-acre.synergynodes.com",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "acre",
+    "logo": "/logos/acre.jpeg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aacre",
+        "symbol": "acre",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/acre.jpeg"
+    }]
+}

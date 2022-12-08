@@ -1,0 +1,16 @@
+{
+    "chain_name": "oraichain",
+    "api": "https://lcd.orai.network",
+    "sdk_version": "0.45.4",
+    "addr_prefix": "orai",   
+    "coin_type": "505",
+    "min_tx_fee": "400000000",
+    "logo": "/logos/oraichain.png",
+    "assets": [{
+        "base": "orai",
+        "symbol": "ORAI",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/oraichain.png"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "chain_name": "terra-classic",
+    "api": "https://fcd.terra.dev",
+    "sdk_version": "0.44.5",
+    "addr_prefix": "terra",   
+    "coin_type": "505",
+    "min_tx_fee": "400000000",
+    "logo": "/logos/terra-luna.jpg",
+    "assets": [{
+        "base": "uluna",
+        "symbol": "LUNA",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/terra-luna.jpg"
+    }]
+}
